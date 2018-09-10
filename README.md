@@ -52,7 +52,18 @@ Pros | Cons
 ------------ | -------------
 Same codebase for Android and iOS | Small community
 Contains iOs style and Android (Material) [widgets](https://flutter.io/widgets/) | Uses Dart
-Easy transition to Dart from Java | New (not much examples running in production)
+Easy transition to Dart from Java | New (not much examples running in production) <br> Flutter is still being developed and is not yet at 1.0
+
+## What is inside the Flutter SDK?
+ * Heavily optimized, mobile-first 2D rendering engine with excellent support for text
+ * Modern react-style framework
+ * Rich set of [widgets](https://flutter.io/widgets/) for Android and iOS
+ * APIs for unit and integration tests
+ * Interop and plugin APIs to connect to the system and 3rd-party SDKs
+ * Headless test runner for running tests on Windows, Linux, and Mac
+ * Command-line tools for creating, building, testing, and compiling your apps
+
+*- From Flutter website*
 
 ## Tooling
 Free IDE Android Studio shipped with device emulator
