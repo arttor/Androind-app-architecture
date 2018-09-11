@@ -53,6 +53,7 @@ Pros | Cons
 Same codebase for Android and iOS | Small community
 Contains iOs style and Android (Material) [widgets](https://flutter.io/widgets/) | Uses Dart
 Easy transition to Dart from Java | New (not much examples running in production) <br> Flutter is still being developed and is not yet at 1.0
+Good for prototyping | 
 
 ## What is inside the Flutter SDK?
  * Heavily optimized, mobile-first 2D rendering engine with excellent support for text
